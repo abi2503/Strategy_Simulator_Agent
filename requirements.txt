@@ -2,3 +2,7 @@ pandas
 ipykernel
 matplotlib
 openpyxl
+sentence_transformers
+faiss-cpu
+tf-keras
+openai
